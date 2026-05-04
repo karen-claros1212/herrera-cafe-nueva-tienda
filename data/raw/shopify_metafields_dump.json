@@ -1,0 +1,4859 @@
+{
+  "store": "herrera-cafe.myshopify.com",
+  "api_version": "2024-07",
+  "data": {
+    "products": {
+      "edges": [
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017185734793",
+            "title": "BLEND",
+            "handle": "blend-castillo-y-caturra",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE-PITALITO HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "TRADICIONALES"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041269385",
+                    "title": "GRANO / 250g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764061321",
+                    "title": "GRANO / 250g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764094089",
+                    "title": "GRANO / 250g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764126857",
+                    "title": "GRANO / 250g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041302153",
+                    "title": "GRANO / 450g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764159625",
+                    "title": "GRANO / 450g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764192393",
+                    "title": "GRANO / 450g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764225161",
+                    "title": "GRANO / 450g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041334921",
+                    "title": "GRANO / 2500g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764257929",
+                    "title": "GRANO / 2500g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764290697",
+                    "title": "GRANO / 2500g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764323465",
+                    "title": "GRANO / 2500g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041367689",
+                    "title": "MOLIDO / 250g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764356233",
+                    "title": "MOLIDO / 250g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764389001",
+                    "title": "MOLIDO / 250g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764421769",
+                    "title": "MOLIDO / 250g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041400457",
+                    "title": "MOLIDO / 450g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764454537",
+                    "title": "MOLIDO / 450g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764487305",
+                    "title": "MOLIDO / 450g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764520073",
+                    "title": "MOLIDO / 450g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041433225",
+                    "title": "MOLIDO / 2500g / BLEND",
+                    "sku": "CTE 10102",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764552841",
+                    "title": "MOLIDO / 2500g / BLEND CASTILLO",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764585609",
+                    "title": "MOLIDO / 2500g / BLEND CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521764618377",
+                    "title": "MOLIDO / 2500g / BLEND BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "200000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017185767561",
+            "title": "CASTILLO",
+            "handle": "castillo",
+            "description": "FINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "TRADICIONALES"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041465993",
+                    "title": "GRANO / 250g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041498761",
+                    "title": "GRANO / 450g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041531529",
+                    "title": "GRANO / 2500g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041564297",
+                    "title": "MOLIDO / 250g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041597065",
+                    "title": "MOLIDO / 450g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041629833",
+                    "title": "MOLIDO / 2500g",
+                    "sku": "CTE 10103",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017185800329",
+            "title": "CATURRA",
+            "handle": "caturra",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "TRADICIONALES"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041662601",
+                    "title": "GRANO / 250g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740271753",
+                    "title": "GRANO / 250g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905212553",
+                    "title": "GRANO / 250g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041695369",
+                    "title": "GRANO / 450g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740304521",
+                    "title": "GRANO / 450g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905245321",
+                    "title": "GRANO / 450g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041728137",
+                    "title": "GRANO / 2500g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740337289",
+                    "title": "GRANO / 2500g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905278089",
+                    "title": "GRANO / 2500g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041760905",
+                    "title": "MOLIDO / 250g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "30000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740370057",
+                    "title": "MOLIDO / 250g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905310857",
+                    "title": "MOLIDO / 250g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041793673",
+                    "title": "MOLIDO / 450g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740402825",
+                    "title": "MOLIDO / 450g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905343625",
+                    "title": "MOLIDO / 450g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041826441",
+                    "title": "MOLIDO / 2500g / CATURRA",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "170000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521740435593",
+                    "title": "MOLIDO / 2500g / CATURRA CHIROSO",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44987905376393",
+                    "title": "MOLIDO / 2500g / CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017186029705",
+            "title": "BOURBON",
+            "handle": "geisha",
+            "description": "CAFÉ 100% COLOMBIANOFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041859209",
+                    "title": "GRANO / 250g / BOURBON ROSADO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718513801",
+                    "title": "GRANO / 250g / BOURBON ROSADO HONEY",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "38000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718546569",
+                    "title": "GRANO / 250g / BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "38000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718579337",
+                    "title": "GRANO / 250g / BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718612105",
+                    "title": "GRANO / 250g / BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041891977",
+                    "title": "GRANO / 450g / BOURBON ROSADO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "50000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718644873",
+                    "title": "GRANO / 450g / BOURBON ROSADO HONEY",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "60000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718677641",
+                    "title": "GRANO / 450g / BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "60000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718710409",
+                    "title": "GRANO / 450g / BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718743177",
+                    "title": "GRANO / 450g / BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041924745",
+                    "title": "GRANO / 2500g / BOURBON ROSADO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "250000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718775945",
+                    "title": "GRANO / 2500g / BOURBON ROSADO HONEY",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "260000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718808713",
+                    "title": "GRANO / 2500g / BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "260000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718841481",
+                    "title": "GRANO / 2500g / BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718874249",
+                    "title": "GRANO / 2500g / BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041957513",
+                    "title": "MOLIDO / 250g / BOURBON ROSADO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "35000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718907017",
+                    "title": "MOLIDO / 250g / BOURBON ROSADO HONEY",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "38000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718939785",
+                    "title": "MOLIDO / 250g / BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "38000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521718972553",
+                    "title": "MOLIDO / 250g / BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521719005321",
+                    "title": "MOLIDO / 250g / BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412041990281",
+                    "title": "MOLIDO / 450g / BOURBON ROSADO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "50000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521719038089",
+                    "title": "MOLIDO / 450g / BOURBON ROSADO HONEY",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "60000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521719070857",
+                    "title": "MOLIDO / 450g / BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "60000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521719103625",
+                    "title": "MOLIDO / 450g / BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521719136393",
+                    "title": "MOLIDO / 450g / BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017186521225",
+            "title": "METODO MOKA ITALIANA (GRECA)",
+            "handle": "prensa-francesa-x-350-ml",
+            "description": "Auténtico sabor italiano en cada taza.La Moka italiana prepara un café fuerte y aromático, con cuerpo intenso y carácter similar al espresso. Perfecta para quienes aman el café con personalidad y tradición en cada preparación.",
+            "productType": "METODOS DE EXTRACCION",
+            "tags": [],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412042645641",
+                    "title": "Default Title",
+                    "sku": null,
+                    "price": {
+                      "amount": "0.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "Title",
+                        "value": "Default Title"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017186553993",
+            "title": "METODO PRENSA FRANCESA",
+            "handle": "dripper-02",
+            "description": "Café con cuerpo intenso y textura envolvente.La prensa francesa extrae todos los aceites naturales del café, ofreciendo una taza rica, con cuerpo completo y sabor profundo. Ideal para quienes disfrutan de una experiencia más robusta y auténtica en cada sorbo.",
+            "productType": "METODOS DE EXTRACCION",
+            "tags": [],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412042678409",
+                    "title": "Default Title",
+                    "sku": null,
+                    "price": {
+                      "amount": "0.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "Title",
+                        "value": "Default Title"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017186652297",
+            "title": "METODO V60",
+            "handle": "hario-v60-02-x-100-unds-para-cafetera-dripper",
+            "description": "¡Descubre el kit V60, el favorito de los amantes del café!Perfecto para regalar o iniciarte en los métodos de filtrado manual. Incluye todo lo necesario para preparar hasta 4 tazas de café limpio y delicioso, en casa o donde vayas. Durable, fácil de usar y diseñado para resaltar los mejores sabores de cada grano.",
+            "productType": "FILTROS",
+            "tags": [],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412042776713",
+                    "title": "Default Title",
+                    "sku": null,
+                    "price": {
+                      "amount": "0.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "Title",
+                        "value": "Default Title"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8017186685065",
+            "title": "METODO CHEMEX",
+            "handle": "filtro-para-chemex-originales-x-100-unds",
+            "description": "Café limpio, elegante y con equilibrio perfecto.El método Chemex utiliza un filtro más grueso que resalta una acidez equilibrada y un cuerpo más limpio, con menos aceites. Ideal para quienes buscan una taza suave, brillante y con gran claridad de sabor.",
+            "productType": "",
+            "tags": [],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/43412042809481",
+                    "title": "Default Title",
+                    "sku": null,
+                    "price": {
+                      "amount": "0.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "Title",
+                        "value": "Default Title"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8154361299081",
+            "title": "PAPAYO",
+            "handle": "papayo-1",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162579081",
+                    "title": "GRANO / 250g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755771017",
+                    "title": "GRANO / 250g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755803785",
+                    "title": "GRANO / 250g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162611849",
+                    "title": "GRANO / 450g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755836553",
+                    "title": "GRANO / 450g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755869321",
+                    "title": "GRANO / 450g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162644617",
+                    "title": "GRANO / 2500g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755902089",
+                    "title": "GRANO / 2500g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755934857",
+                    "title": "GRANO / 2500g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162677385",
+                    "title": "MOLIDO / 250g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521755967625",
+                    "title": "MOLIDO / 250g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521756000393",
+                    "title": "MOLIDO / 250g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162710153",
+                    "title": "MOLIDO / 450g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521756033161",
+                    "title": "MOLIDO / 450g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521756065929",
+                    "title": "MOLIDO / 450g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339162742921",
+                    "title": "MOLIDO / 2500g / PAPAYO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521756098697",
+                    "title": "MOLIDO / 2500g / PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521756131465",
+                    "title": "MOLIDO / 2500g / PAPAYO HONEY",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO HONEY"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8154363363465",
+            "title": "LAURINA NATURAL",
+            "handle": "laurina-natural",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339166838921",
+                    "title": "GRANO / 250g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339166871689",
+                    "title": "GRANO / 450g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "130000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339166904457",
+                    "title": "GRANO / 2500g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "500000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339166937225",
+                    "title": "MOLIDO / 250g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339166969993",
+                    "title": "MOLIDO / 450g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "130000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339167002761",
+                    "title": "MOLIDO / 2500g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "500000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8154365657225",
+            "title": "JAVA",
+            "handle": "java",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339169984649",
+                    "title": "GRANO / 250g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743581321",
+                    "title": "GRANO / 250g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743614089",
+                    "title": "GRANO / 250g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339170017417",
+                    "title": "GRANO / 450g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743646857",
+                    "title": "GRANO / 450g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743679625",
+                    "title": "GRANO / 450g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339170050185",
+                    "title": "GRANO / 2500g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743712393",
+                    "title": "GRANO / 2500g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743745161",
+                    "title": "GRANO / 2500g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339170082953",
+                    "title": "MOLIDO / 250g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743777929",
+                    "title": "MOLIDO / 250g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743810697",
+                    "title": "MOLIDO / 250g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339170115721",
+                    "title": "MOLIDO / 450g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743843465",
+                    "title": "MOLIDO / 450g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743876233",
+                    "title": "MOLIDO / 450g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339170148489",
+                    "title": "MOLIDO / 2500g / JAVA",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743909001",
+                    "title": "MOLIDO / 2500g / JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521743941769",
+                    "title": "MOLIDO / 2500g / JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8154366836873",
+            "title": "GEISHA",
+            "handle": "sidra",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171688585",
+                    "title": "GRANO / 250g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "65000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171721353",
+                    "title": "GRANO / 450g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "120000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171754121",
+                    "title": "GRANO / 2500g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "400000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171786889",
+                    "title": "MOLIDO / 250g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "65000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171819657",
+                    "title": "MOLIDO / 450g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "120000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339171852425",
+                    "title": "MOLIDO / 2500g",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "400000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8154372735113",
+            "title": "OMBLIGON",
+            "handle": "ombligon",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339187908745",
+                    "title": "GRANO / 250g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749020809",
+                    "title": "GRANO / 250g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339187941513",
+                    "title": "GRANO / 450g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749053577",
+                    "title": "GRANO / 450g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339187974281",
+                    "title": "GRANO / 2500g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749086345",
+                    "title": "GRANO / 2500g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339188007049",
+                    "title": "MOLIDO / 250g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "40000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749119113",
+                    "title": "MOLIDO / 250g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "45000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339188039817",
+                    "title": "MOLIDO / 450g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "70000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749151881",
+                    "title": "MOLIDO / 450g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "80000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44339188072585",
+                    "title": "MOLIDO / 2500g / OMBLIGON",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "280000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521749184649",
+                    "title": "MOLIDO / 2500g / OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "300000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      },
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8213933752457",
+            "title": "V200 NATURAL",
+            "handle": "v200-natural",
+            "description": "CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "TRADICIONALES"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761013897",
+                    "title": "GRANO / 250g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "55000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761079433",
+                    "title": "GRANO / 450g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "100000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761144969",
+                    "title": "GRANO / 2500g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "400000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "GRANO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761210505",
+                    "title": "MOLIDO / 250g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "55000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "250g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761276041",
+                    "title": "MOLIDO / 450g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "100000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "450g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44521761341577",
+                    "title": "MOLIDO / 2500g",
+                    "sku": "CTE 10104",
+                    "price": {
+                      "amount": "400000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "TIPO",
+                        "value": "MOLIDO"
+                      },
+                      {
+                        "name": "PESO",
+                        "value": "2500g"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        },
+        {
+          "node": {
+            "id": "gid://shopify/Product/8360891744393",
+            "title": "CAJA DRIPS X5 UND.",
+            "handle": "caja-drips",
+            "description": "CAJA DE DRIPS X 5 UNIDADES CONTENIDO NETO 50 GRAMOS",
+            "productType": "CAFÉ TOSTADO EMPACADO",
+            "tags": [
+              "EXOTICOS"
+            ],
+            "metafields": [
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            "variants": {
+              "edges": [
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996964155529",
+                    "title": "BLEND",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "20000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BLEND"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996964188297",
+                    "title": "CASTILLO",
+                    "sku": "CTE 10110",
+                    "price": {
+                      "amount": "20000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CASTILLO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996964221065",
+                    "title": "CATURRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "20000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996964253833",
+                    "title": "BOURBON ROSADO",
+                    "sku": null,
+                    "price": {
+                      "amount": "22000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977066121",
+                    "title": "BOURBON ROSADO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "25000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON ROSADO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977098889",
+                    "title": "BOURBON SIDRA",
+                    "sku": null,
+                    "price": {
+                      "amount": "15000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996964286601",
+                    "title": "BOURBON SIDRA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "BOURBON SIDRA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977131657",
+                    "title": "JAVA",
+                    "sku": null,
+                    "price": {
+                      "amount": "15000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977164425",
+                    "title": "JAVA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977852553",
+                    "title": "JAVA LAURINA",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "JAVA LAURINA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977197193",
+                    "title": "OMBLIGON",
+                    "sku": null,
+                    "price": {
+                      "amount": "15000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977229961",
+                    "title": "OMBLIGON NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "OMBLIGON NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977262729",
+                    "title": "PAPAYO",
+                    "sku": null,
+                    "price": {
+                      "amount": "15000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977295497",
+                    "title": "PAPAYO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "PAPAYO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977328265",
+                    "title": "GEISHA",
+                    "sku": null,
+                    "price": {
+                      "amount": "18000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "GEISHA"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977361033",
+                    "title": "LAURINA NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "18000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "LAURINA NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977393801",
+                    "title": "V200",
+                    "sku": null,
+                    "price": {
+                      "amount": "18000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "V200"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977885321",
+                    "title": "CATURRA CHIROSO",
+                    "sku": null,
+                    "price": {
+                      "amount": "15000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                },
+                {
+                  "node": {
+                    "id": "gid://shopify/ProductVariant/44996977918089",
+                    "title": "CATURRA CHIROSO NATURAL",
+                    "sku": null,
+                    "price": {
+                      "amount": "16000.0",
+                      "currencyCode": "COP"
+                    },
+                    "selectedOptions": [
+                      {
+                        "name": "VARIEDAD",
+                        "value": "CATURRA CHIROSO NATURAL"
+                      }
+                    ],
+                    "metafields": [
+                      null,
+                      null
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "pageInfo": {
+        "hasNextPage": false
+      }
+    }
+  },
+  "total_metafields_found": 0
+}
