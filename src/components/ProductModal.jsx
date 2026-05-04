@@ -149,6 +149,8 @@ const ProductModal = ({ product, onClose, onAddToCart }) => {
             <img
               src={product.img}
               alt={product.title}
+              loading="lazy"
+              decoding="async"
               style={{
                 width: '100%',
                 height: '100%',

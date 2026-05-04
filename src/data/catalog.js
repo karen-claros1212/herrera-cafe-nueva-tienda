@@ -13,7 +13,7 @@ export const RAW_DATA = {
       tags: ['TRADICIONALES'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '30000.0' }, maxVariantPrice: { amount: '200000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/blend.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/blend.webp' } }] },
       description: 'CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE-PITALITO HUILA.ASNM: 1500 mts',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/43412041269385', title: 'GRANO / 250g / BLEND', price: { amount: '30000.0' }, availableForSale: true } },
@@ -36,7 +36,7 @@ export const RAW_DATA = {
       tags: ['TRADICIONALES'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '30000.0' }, maxVariantPrice: { amount: '170000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/castillo.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/castillo.webp' } }] },
       description: 'FINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/43412042088585', title: 'GRANO / 250g', price: { amount: '30000.0' }, availableForSale: true } },
@@ -56,7 +56,7 @@ export const RAW_DATA = {
       tags: ['TRADICIONALES'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '30000.0' }, maxVariantPrice: { amount: '300000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caturra.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caturra.webp' } }] },
       description: 'CAFÉ PREMIUMFINCA CAFETERA: BELLO HORIZONTE, PITALITO-HUILA.ASNM: 1500 mts',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/43412043268233', title: 'GRANO / 250g / CATURRA', price: { amount: '30000.0' }, availableForSale: true } },
@@ -77,7 +77,7 @@ export const RAW_DATA = {
       tags: ['EXOTICOS'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '35000.0' }, maxVariantPrice: { amount: '300000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/bourbon.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/bourbon.webp' } }] },
       description: 'Variedad exotic de proceso honey y natural. Notas dulces y florales.',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/43412048609417', title: 'GRANO / 250g / BOURBON ROSADO', price: { amount: '35000.0' }, availableForSale: true } },
@@ -99,7 +99,7 @@ export const RAW_DATA = {
       tags: ['EXOTICOS'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '40000.0' }, maxVariantPrice: { amount: '300000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caturra.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caturra.webp' } }] },
       description: 'Variedad nativa colombiana con perfil tropical único.',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/44000001000001', title: 'GRANO / 250g / PAPAYO', price: { amount: '40000.0' }, availableForSale: true } },
@@ -119,7 +119,7 @@ export const RAW_DATA = {
       tags: ['EXOTICOS'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '70000.0' }, maxVariantPrice: { amount: '500000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/castillo.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/castillo.webp' } }] },
       description: 'Variedad ultra-baja en cafeína, perfil floral y cítrico intenso.',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/44000002000001', title: 'GRANO / 250g', price: { amount: '70000.0' }, availableForSale: true } },
@@ -137,7 +137,7 @@ export const RAW_DATA = {
       tags: ['EXOTICOS'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '65000.0' }, maxVariantPrice: { amount: '400000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/bourbon.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/bourbon.webp' } }] },
       description: 'La variedad más preciada del mundo. Perfil floral, frutal, complejo.',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/44000003000001', title: 'GRANO / 250g', price: { amount: '65000.0' }, availableForSale: true } },
@@ -155,7 +155,7 @@ export const RAW_DATA = {
       tags: ['ESPECIALES'],
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '15000.0' }, maxVariantPrice: { amount: '25000.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caja-drips.png' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/caja-drips.webp' } }] },
       description: '5 drips individuales. Ideal para regalo o para llevar a donde vayas.',
       variants: { edges: [
         { node: { id: 'gid://shopify/ProductVariant/44000004000001', title: 'BLEND', price: { amount: '20000.0' }, availableForSale: true } },
@@ -173,7 +173,7 @@ export const RAW_DATA = {
       productType: 'METODOS DE EXTRACCION',
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '0.0' }, maxVariantPrice: { amount: '0.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/moka-tapa.jpg' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/moka-tapa.webp' } }] },
       description: 'Auténtico sabor italiano en cada taza. La Moka prepara un café fuerte y aromático.',
       variants: { edges: [] }, options: [],
     },
@@ -184,7 +184,7 @@ export const RAW_DATA = {
       productType: 'METODOS DE EXTRACCION',
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '0.0' }, maxVariantPrice: { amount: '0.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/prensa-francesa-1.jpg' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/prensa-francesa-1.webp' } }] },
       description: 'Café con cuerpo intenso y textura envolvente. Extrae todos los aceites naturales.',
       variants: { edges: [] }, options: [],
     },
@@ -195,7 +195,7 @@ export const RAW_DATA = {
       productType: 'FILTROS',
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '0.0' }, maxVariantPrice: { amount: '0.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/v60-hr-1.jpg' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/v60-hr-1.webp' } }] },
       description: 'Taza limpia y deliciosa. Perfecto para iniciarte en los métodos de filtrado manual.',
       variants: { edges: [] }, options: [],
     },
@@ -205,7 +205,7 @@ export const RAW_DATA = {
       handle: 'metodo-chemex',
       availableForSale: true,
       priceRange: { minVariantPrice: { amount: '0.0' }, maxVariantPrice: { amount: '0.0' } },
-      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/chemex-1.jpg' } }] },
+      images: { edges: [{ node: { url: 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/methods/chemex-1.webp' } }] },
       description: 'Café limpio, elegante y con equilibrio perfecto. Resalta una acidez equilibrada.',
       variants: { edges: [] }, options: [],
     },
@@ -255,46 +255,46 @@ export const formatCOP = (amount) =>
 const CDN_BASE = 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main';
 
 const CDN_IMAGES = {
-  'blend-castillo-y-caturra': CDN_BASE + '/coffees/blend.png',
-  'castillo': CDN_BASE + '/coffees/castillo.png',
-  'caturra': CDN_BASE + '/coffees/caturra.png',
-  'bourbon': CDN_BASE + '/coffees/bourbon.png',
-  'papayo-1': CDN_BASE + '/coffees/papayo.png',
-  'laurina-natural': CDN_BASE + '/coffees/laurina-natural.png',
-  'geisha': CDN_BASE + '/coffees/geisha.png',
-  'caja-drips': CDN_BASE + '/coffees/caja-drips.png',
+  'blend-castillo-y-caturra': CDN_BASE + '/coffees/blend.webp',
+  'castillo': CDN_BASE + '/coffees/castillo.webp',
+  'caturra': CDN_BASE + '/coffees/caturra.webp',
+  'bourbon': CDN_BASE + '/coffees/bourbon.webp',
+  'papayo-1': CDN_BASE + '/coffees/papayo.webp',
+  'laurina-natural': CDN_BASE + '/coffees/laurina-natural.webp',
+  'geisha': CDN_BASE + '/coffees/geisha.webp',
+  'caja-drips': CDN_BASE + '/coffees/caja-drips.webp',
   'metodo-moka': CDN_BASE + '/methods/moka.webp',
-  'metodo-prensa-francesa': CDN_BASE + '/methods/prensa-francesa-1.jpg',
-  'metodo-v60': CDN_BASE + '/methods/v60-hr-1.jpg',
-  'metodo-chemex': CDN_BASE + '/methods/chemex-1.jpg',
+  'metodo-prensa-francesa': CDN_BASE + '/methods/prensa-francesa-1.webp',
+  'metodo-v60': CDN_BASE + '/methods/v60-hr-1.webp',
+  'metodo-chemex': CDN_BASE + '/methods/chemex-1.webp',
 };
 
 const GALLERY_IMAGES = {
-  'castillo': [CDN_BASE + '/coffees/castillo.png', CDN_BASE + '/coffees/castillo-back.jpg'],
-  'bourbon': [CDN_BASE + '/coffees/bourbon.png', CDN_BASE + '/coffees/bourbon-bolsas.jpg'],
-  'metodo-moka': [CDN_BASE + '/methods/moka.webp', CDN_BASE + '/methods/moka-tapa.jpg'],
+  'castillo': [CDN_BASE + '/coffees/castillo.webp', CDN_BASE + '/coffees/castillo-back.webp'],
+  'bourbon': [CDN_BASE + '/coffees/bourbon.webp', CDN_BASE + '/coffees/bourbon-bolsas.webp'],
+  'metodo-moka': [CDN_BASE + '/methods/moka.webp', CDN_BASE + '/methods/moka-tapa.webp'],
   'metodo-prensa-francesa': [
-    CDN_BASE + '/methods/prensa-francesa-1.jpg',
-    CDN_BASE + '/methods/prensa-francesa-hr-1.jpg',
-    CDN_BASE + '/methods/prensa-francesa-3.jpg',
-    CDN_BASE + '/methods/prensa-francesa-hr-2.jpg',
+    CDN_BASE + '/methods/prensa-francesa-1.webp',
+    CDN_BASE + '/methods/prensa-francesa-hr-1.webp',
+    CDN_BASE + '/methods/prensa-francesa-3.webp',
+    CDN_BASE + '/methods/prensa-francesa-hr-2.webp',
   ],
   'metodo-v60': [
-    CDN_BASE + '/methods/v60-hr-1.jpg',
-    CDN_BASE + '/methods/v60-2.jpg',
-    CDN_BASE + '/methods/v60-hr-2.jpg',
-    CDN_BASE + '/methods/v60-hr-3.jpg',
-    CDN_BASE + '/methods/v60-hr-4.jpg',
+    CDN_BASE + '/methods/v60-hr-1.webp',
+    CDN_BASE + '/methods/v60-2.webp',
+    CDN_BASE + '/methods/v60-hr-2.webp',
+    CDN_BASE + '/methods/v60-hr-3.webp',
+    CDN_BASE + '/methods/v60-hr-4.webp',
   ],
   'metodo-chemex': [
-    CDN_BASE + '/methods/chemex-1.jpg',
-    CDN_BASE + '/methods/chemex-2.jpg',
-    CDN_BASE + '/methods/chemex-3.jpg',
-    CDN_BASE + '/methods/chemex-4.jpg',
+    CDN_BASE + '/methods/chemex-1.webp',
+    CDN_BASE + '/methods/chemex-2.webp',
+    CDN_BASE + '/methods/chemex-3.webp',
+    CDN_BASE + '/methods/chemex-4.webp',
   ],
 };
 
-const CDN_FALLBACK = 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/blend.png';
+const CDN_FALLBACK = 'https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/blend.webp';
 
 const getCdnImage = (handle) => CDN_IMAGES[handle] ?? CDN_FALLBACK;
 

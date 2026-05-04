@@ -133,6 +133,7 @@ function HeroSection({ heroProduct, onOpenModal }) {
             }} />
             <img
               src={heroProduct.img} alt={heroProduct.title}
+              fetchpriority="high"
               onClick={() => onOpenModal(heroProduct)}
               className="animate-float"
               style={{
@@ -253,6 +254,7 @@ function CatalogSection({ coffees, filter, onFilterChange, onOpenModal }) {
               )}
               <img
                 src={p.img} alt={p.title}
+                loading="lazy" decoding="async"
                 style={{ height: 220, objectFit: 'contain', position: 'relative', transition: 'transform .6s cubic-bezier(.23,1,.32,1)' }}
                 onMouseEnter={e => e.target.style.transform = 'scale(1.06)'}
                 onMouseLeave={e => e.target.style.transform = 'scale(1)'}
@@ -328,7 +330,7 @@ function MethodsSection({ methods }) {
         {methods.map((m, i) => (
           <div key={m.id} className={`product-card reveal reveal-delay-${(i % 4) + 1}`}
             style={{ padding: '32px 24px', textAlign: 'center' }}>
-            <img src={m.img} alt={m.title} style={{
+            <img src={m.img} alt={m.title} loading="lazy" decoding="async" style={{
               width: '100%', height: 180, objectFit: 'contain', marginBottom: 24,
               mixBlendMode: 'lighten', opacity: 0.9
             }} />
@@ -380,33 +382,28 @@ function OriginSection() {
           </div>
         </div>
 
-        <div className="reveal reveal-delay-2">
+        <div className="reveal reveal-delay-2" style={{ position: 'relative', aspectRatio: '4/3', overflow: 'hidden', border: '1px solid var(--border)' }}>
+          <video
+            autoPlay loop muted playsInline
+            className="absolute inset-0 w-full h-full object-cover"
+            src=""
+            poster="https://raw.githubusercontent.com/karen-claros1212/herreracafe-assets-cdn/main/coffees/bourbon-bolsas.webp"
+            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+          >
+            Tu navegador no soporta video.
+          </video>
+          {/* Overlay oscuro para contraste del texto */}
           <div style={{
-            position: 'relative', aspectRatio: '4/3', background: 'rgba(255,255,255,0.02)',
-            border: '1px solid var(--border)', overflow: 'hidden',
-            display: 'flex', alignItems: 'center', justifyContent: 'center'
+            position: 'absolute', inset: 0,
+            background: 'linear-gradient(135deg, rgba(0,0,0,0.5) 0%, rgba(0,0,0,0.2) 100%)',
+            pointerEvents: 'none'
+          }} />
+          <div style={{
+            position: 'absolute', bottom: 16, left: 16, fontFamily: 'Josefin Sans',
+            fontSize: 8, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'rgba(255,255,255,0.6)',
+            zIndex: 2
           }}>
-            <svg viewBox="0 0 400 300" style={{ width: '100%', height: '100%' }}>
-              {[0.3, 0.4, 0.5, 0.6, 0.7, 0.8].map((s, i) => (
-                <ellipse key={i} cx={200} cy={150} rx={180 * s} ry={120 * s}
-                  fill="none" stroke={`rgba(201,168,124,${0.06 + i * 0.02})`} strokeWidth="0.5" />
-              ))}
-              <circle cx={200} cy={150} r={5} fill="#c9a87c" opacity={0.9} />
-              <circle cx={200} cy={150} r={14} fill="none" stroke="#c9a87c" strokeWidth="0.5" opacity={0.4}
-                className="animate-pulse-gold" />
-              <text x={214} y={146} style={{ fontSize: 7, fill: '#c9a87c', fontFamily: 'Josefin Sans', letterSpacing: '0.1em' }}>
-                Finca Bello Horizonte
-              </text>
-              <text x={214} y={157} style={{ fontSize: 6, fill: 'rgba(160,160,160,0.6)', fontFamily: 'Josefin Sans' }}>
-                1.500 MSNM · Huila
-              </text>
-            </svg>
-            <div style={{
-              position: 'absolute', bottom: 16, left: 16, fontFamily: 'Josefin Sans',
-              fontSize: 8, letterSpacing: '0.2em', textTransform: 'uppercase', color: 'rgba(255,255,255,0.2)'
-            }}>
-              Pitalito · Colombia
-            </div>
+            Pitalito · Colombia
           </div>
         </div>
       </div>
